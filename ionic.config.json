@@ -1,0 +1,7 @@
+{
+  "name": "ionic-pets-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
